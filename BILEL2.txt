@@ -2,3 +2,5 @@
 "2em file ajout HELLO WORD"
 "HELLO MY FAMILLY, IM VERY STRONG ON GIT"
 "THIS MY 3TH MODIFICATION"
+"La vrai bordel, je n'ai jamis vu pareil"
+"Que dieu nous apport le bien"
